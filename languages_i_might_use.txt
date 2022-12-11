@@ -1,0 +1,27 @@
+Interesting:
+[X] JavaScript in Browser - day1
+[ ] Node
+[ ] Deno
+[X] Elixir - day1 (additionally)
+[ ] Rust
+[ ] Kotlin
+
+Easy for fill up:
+[ ] Ruby
+[ ] Python
+
+Maybe:
+[ ] SQL
+[ ] Scala
+[ ] Bash
+
+???:
+[ ] Dart
+[ ] Elm
+[ ] Lua
+[ ] R
+[ ] MATLAB
+
+If I really dare:
+[ ] Clojure
+[ ] Assembler (did I really mention this here?)
