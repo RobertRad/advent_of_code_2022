@@ -1,6 +1,6 @@
 CREATE TABLE strategy_guide(opp_choice TEXT, my_choice TEXT);
 
--- All the INSERT-statements here...
+-- That long INSERT-statement here...
 
 WITH points_per_round AS (
   SELECT
