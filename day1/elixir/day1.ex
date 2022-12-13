@@ -1,6 +1,6 @@
 case File.read("./input.txt") do
   {:ok, content} ->
-    content
+    top_three = content
     |> String.split("\n")
     |> Enum.reduce([0], fn (curr, acc) ->
       if (String.length(curr) > 0) do
@@ -11,7 +11,10 @@ case File.read("./input.txt") do
         List.insert_at(acc, -1, 0)
       end
     end)
-    |> Enum.max()
-    |> IO.puts
+    |> Enum.sort()
+    |> Enum.reverse()
+    |> Enum.take(3)
+    IO.puts("Part 1: " <> Integer.to_string(Enum.at(top_three, 0)))
+    IO.puts("Part 2: " <> Integer.to_string(Enum.sum(top_three)))
   {:error, reason} -> IO.puts("Could not read file " <> Atom.to_string(reason))
 end
