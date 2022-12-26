@@ -9,9 +9,10 @@ Interesting:
 Easy for fill up:
 [ ] Ruby
 [ ] Python
+[ ] Java - day3
 
 Maybe:
-[ ] SQL
+[X] SQL - day2
 [ ] Scala
 [ ] Bash
 
@@ -20,7 +21,8 @@ Maybe:
 [ ] Elm
 [ ] Lua
 [ ] R
-[ ] MATLAB
+[ ] MATLAB (GNU Octave)
+[ ] Julia
 
 If I really dare:
 [ ] Clojure
