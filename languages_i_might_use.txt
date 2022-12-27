@@ -1,6 +1,6 @@
 Interesting:
 [X] JavaScript in Browser - day1
-[ ] Node
+[X] Node - day4
 [ ] Deno
 [X] Elixir - day1 (additionally)
 [ ] Rust
@@ -9,7 +9,7 @@ Interesting:
 Easy for fill up:
 [ ] Ruby
 [ ] Python
-[ ] Java - day3
+[X] Java - day3
 
 Maybe:
 [X] SQL - day2

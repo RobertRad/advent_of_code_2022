@@ -1,0 +1,8 @@
+# Java
+.gradle
+.idea
+build
+bin
+
+# Node
+node_modules
