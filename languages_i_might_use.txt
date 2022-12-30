@@ -4,10 +4,10 @@ Interesting:
 [ ] Deno
 [X] Elixir - day1 (additionally)
 [ ] Rust
-[ ] Kotlin
+[X] Kotlin - day5
 
 Easy for fill up:
-[ ] Ruby
+[X] Ruby - day6
 [ ] Python
 [X] Java - day3
 
