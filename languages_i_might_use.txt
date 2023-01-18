@@ -5,6 +5,7 @@ Interesting:
 [X] Elixir - day1 (additionally)
 [ ] Rust
 [X] Kotlin - day5
+[ ] Go
 
 Easy for fill up:
 [X] Ruby - day6
