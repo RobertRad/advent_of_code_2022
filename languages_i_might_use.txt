@@ -1,7 +1,7 @@
 Interesting:
 [X] JavaScript in Browser - day1
 [X] Node - day4
-[ ] Deno
+[X] Deno - day7
 [X] Elixir - day1 (additionally)
 [ ] Rust
 [X] Kotlin - day5
