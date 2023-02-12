@@ -6,3 +6,6 @@ bin
 
 # Node
 node_modules
+
+# Elm
+elm-stuff
