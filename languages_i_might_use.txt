@@ -20,6 +20,8 @@ Maybe:
 ???:
 [ ] Dart
 [X] Elm - day8
+[X] React - day8
+[X] ts-belt - day8
 [ ] Lua
 [ ] R
 [ ] MATLAB (GNU Octave)
