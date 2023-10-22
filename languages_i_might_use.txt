@@ -4,7 +4,7 @@ Interesting:
 [X] Deno - day7
 [X] Elixir - day1 (additionally)
 [ ] Rust
-[X] Kotlin - day5
+[X] Kotlin - day5, day9
 [ ] Go
 
 Easy for fill up:
