@@ -9,7 +9,7 @@ Interesting:
 
 Easy for fill up:
 [X] Ruby - day6
-[ ] Python
+[X] Python - day10
 [X] Java - day3
 
 Maybe:
@@ -29,4 +29,4 @@ Maybe:
 
 If I really dare:
 [ ] Clojure
-[ ] Assembler (did I really mention this here?)
+[X] Assembler (did I really mention this here?) - day10 (Part1)
